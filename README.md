@@ -12,7 +12,7 @@
 
 * This repository contains only crawler code and does not contain any crawled articles and other files.
 
-#scrapy爬虫-新闻网站
+# scrapy爬虫-新闻网站
 
 * 获取网站新闻文章的json格式索引信息和txt格式文章内容
 
