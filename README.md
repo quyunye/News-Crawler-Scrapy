@@ -1,4 +1,4 @@
-# news-crawler-scrapy
+# News-Crawler-Scrapy
 
 * Get the news pages' json description document and article text document.
 
